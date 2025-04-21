@@ -20,3 +20,5 @@ using the 8th order Butterworth filter.
 3. Application of quadratic discriminant analysis to \
 a two-dimensional array of time/information for classifying individual\
 activity groups
+
+generate function in NeuroID.tools
