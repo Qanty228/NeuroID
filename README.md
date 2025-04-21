@@ -12,7 +12,7 @@
 
 All computing operations are performed in a\
 hardware-isolated environment, as this way malware will not be able\
-to access the user's biometric data. \
+to access the user's biometric data. 
 
 1. Recording of EEG signals with a frequency of 128-256 Hz for 5-30 seconds
 2. Removing noise (motion artifacts, network interference)\
