@@ -21,4 +21,6 @@ using the 8th order Butterworth filter.
 a two-dimensional array of time/information for classifying individual\
 activity groups
 
+To install:\
+download git project\
 generate function in NeuroID.tools
